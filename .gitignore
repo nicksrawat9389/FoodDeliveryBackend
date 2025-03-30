@@ -6,3 +6,6 @@
 /FoodSelivery/.vs/FoodDelivery
 /FoodSelivery/FoodDelivery.APIGateway/obj
 /FoodSelivery/ResturantService.API/obj
+/FoodSelivery/FoodDelivery.APIGateway/bin/Debug/net8.0
+/FoodSelivery/ResturantService.API/bin/Debug/net8.0
+*.user
