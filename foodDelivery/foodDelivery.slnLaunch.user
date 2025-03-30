@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FoodDelivery.APIGateway\\FoodDelivery.APIGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ResturantService.API\\ResturantService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrderService.API\\OrderService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DeliveryService.API\\DeliveryService.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
